@@ -1,6 +1,6 @@
 # Site Content for Innovative Minds
 
-This site powers a lot of the content seen on the [nnovative Minds website](https://www.innovativemindswa.org/). When contributing, don't push directly to the repository (you probably can't anyways); instead create a pull request and someone will check it for errors, then merge it if it's functional.
+This site powers a lot of the content seen on the [Innovative Minds website](https://www.innovativemindswa.org/). When contributing, don't push directly to the repository (you probably can't anyways); instead create a pull request and someone will check it for errors, then merge it if it's functional.
 
 ## Competitions
 
