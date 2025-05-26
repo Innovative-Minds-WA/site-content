@@ -10,13 +10,14 @@ To put yourself on the website, on the [about page](https://www.innovativemindsw
 ---
 name: "John Doe"
 role: "Director of Money"
+image: "/site-content/images/john-selfie.png"
 id: 5
 ---
 
 John Doe is a pretty cool guy.
 ```
 
-The ID is used to sort the cards on the website.
+The ID is used to sort the cards on the website. The image field is optional but recommended. Without an image, your picture will default to the placeholder.
 
 ## Competitions
 
